@@ -1,0 +1,24 @@
+=======================
+NoSQL Challenge Data
+=======================
+
+Data Challenge
+-------------------
+
+* Simulated Network Prefix Registration Data
+
+
+Inspirations
+-------------
+* NoSQL West
+* Genetic Analysis Workshop, where teams of researchers work on the same
+  (simulated) data, to show off techniques and tools.  I simulated the data
+  for GAW 15.  cf:  http://www.gaworkshop.org/gaw15.htm
+
+Benefits for NoSQL Kit Authors
+---------------------------
+* Show off framework capabilities
+* have a "real" dataset to show off on
+* Prestige
+
+
